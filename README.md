@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harshit</h1>
-<h3 align="center">Turning data into insights ⚡ | Passionate about ML, clean code & impactful systems 💡</h3>
+<h3 align="center">🔍 Turning data into insights | ⚙️ Passionate about ML, clean code & impactful systems 🚀</h3>
 
 ---
 
@@ -35,28 +35,26 @@
 ---
 
 ### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xHarshit&show_icons=true&theme=tokyonight&count_private=true" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xHarshit&theme=tokyonight" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xHarshit&layout=compact&theme=tokyonight" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=xHarshit&show_icons=true&theme=algolia&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xHarshit&theme=algolia" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xHarshit&layout=compact&theme=algolia" />
+</p>
 
 ---
 
-### 🤝 Let's Collaborate & Connect!
-<p align="center">
-  <a href="https://linkedin.com/in/your-profile" target="_blank">
+### 🤝 Let's Connect!
+<div align="center">
+  <a href="https://linkedin.com/in/your-profile" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:harshitmhatre526@gmail.com" target="_blank">
+  <a href="mailto:harshitmhatre526@gmail.com" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/xHarshit" target="_blank">
+  <a href="https://github.com/xHarshit" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-</p>
+</div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=xHarshit&style=flat-square&color=blue" alt="Visitor Count"/>
