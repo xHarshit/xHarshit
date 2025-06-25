@@ -35,11 +35,13 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xHarshit&show_icons=true&theme=radical&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xHarshit&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xHarshit&layout=compact&theme=radical" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=xHarshit&show_icons=true&theme=blueberry&count_private=true" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xHarshit&theme=blueberry" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xHarshit&layout=compact&theme=blueberry" />
+</div>
 
 ---
 
