@@ -1,4 +1,9 @@
-<h1 align="center">Hi 👋, I'm Harshit</h1>
+<h1 align="center">
+  Hi there! 
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="vertical-align:middle; margin-bottom:3px;" />
+  I'm <strong>Harshit</strong>, nice to meet you!
+</h1>
+
 <h3 align="center">🚀 AI & ML Enthusiast | 🛠️ Turning ideas into code | 🔍 Focused on smart, scalable solutions</h3>
 
 ---
