@@ -52,12 +52,13 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=xHarshit&show_icons=true&theme=algolia&count_private=true" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xHarshit&theme=algolia" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xHarshit&theme=algolia" width="45%"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xHarshit&layout=compact&theme=algolia" width="45%"/>
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xHarshit&layout=compact&theme=algolia" />
-</p>
+
 
 ---
 
