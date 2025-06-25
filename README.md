@@ -54,9 +54,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xHarshit&theme=algolia" width="45%"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xHarshit&layout=compact&theme=algolia" width="45%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xHarshit&theme=algolia" width="420"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xHarshit&layout=compact&theme=algolia" width="420"/>
 </p>
 
 
