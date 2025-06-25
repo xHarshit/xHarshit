@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harshit</h1>
-<h3 align="center">AI & Data Science Engineer | Python Developer | Problem Solver</h3>
+<h3 align="center">Turning data into insights ⚡ | Passionate about ML, clean code & impactful systems 💡</h3>
 
 ---
 
@@ -45,20 +45,19 @@
 
 ---
 
-### 🌐 Connect With Me & Show Support!
+### 🤝 Let's Collaborate & Connect!
 <p align="center">
   <a href="https://linkedin.com/in/your-profile" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:harshitmhatre526@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/xHarshit" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=xHarshit&style=for-the-badge&color=blue" alt="Profile views"/>
-  <img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg?style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=xHarshit&style=flat-square&color=blue" alt="Visitor Count"/>
 </p>
