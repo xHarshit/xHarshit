@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harshit</h1>
-<h3 align="center">🔍 Turning data into insights | ⚙️ Passionate about ML, clean code & impactful systems 🚀</h3>
+<h3 align="center">🚀 AI & ML Enthusiast | 🛠️ Turning ideas into code | 🔍 Focused on smart, scalable solutions</h3>
 
 ---
 
