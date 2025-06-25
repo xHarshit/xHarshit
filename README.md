@@ -4,7 +4,7 @@
 ---
 
 <p align="center">
-  <img src="./assets/coding.gif" width="800"/>
+  <img src="./assets/coding.gif" width="700"/>
 </p>
 
 ---
