@@ -4,7 +4,7 @@
 ---
 
 <p align="center">
-  <img src="./assets/coding.gif" width="600"/>
+  <img src="./assets/coding.gif" width="800"/>
 </p>
 
 ---
@@ -37,24 +37,28 @@
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=xHarshit&show_icons=true&theme=algolia&count_private=true" />
+</p>
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=xHarshit&theme=algolia" />
+</p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xHarshit&layout=compact&theme=algolia" />
 </p>
 
 ---
 
-### 🤝 Let's Connect!
-<div align="center">
-  <a href="https://linkedin.com/in/your-profile" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+### 🤝 Connect With Me
+<p align="center">
+  <a href="https://linkedin.com/in/your-profile">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:harshitmhatre526@gmail.com" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+  <a href="mailto:harshitmhatre526@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/xHarshit" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+  <a href="https://github.com/xHarshit">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-</div>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=xHarshit&style=flat-square&color=blue" alt="Visitor Count"/>
