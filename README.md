@@ -54,10 +54,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xHarshit&theme=algolia" width="420"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xHarshit&layout=compact&theme=algolia" width="420"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xHarshit&theme=algolia" width="47%"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xHarshit&layout=compact&theme=algolia" width="34%"/>
 </p>
+
 
 
 ---
